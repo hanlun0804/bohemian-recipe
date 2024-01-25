@@ -8,5 +8,5 @@ We used React, TypeScript and MongoDB to develop this project. I learnt more abo
 project. I think it is the couse I have learnt the most from so far in my studies, and can highly recommend it as an interesting and relevant course to any aspiring 
 developers.
 
-We sadly could not host the website anymore, due to NTNU taking down the VMs the database and site was running on. Please feel free to contact me at 
+We sadly could not host the website anymore, due to NTNU taking down the VMs the database and site was running on. The project's original README can be found [here](projectDescription.md). Please feel free to contact me at 
 hanlun0804@outlook.com regarding any questions or feedback you might have. And have a nice day!
